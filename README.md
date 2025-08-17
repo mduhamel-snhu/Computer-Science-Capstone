@@ -9,6 +9,8 @@ Hello!
 
 My name is Maria Duhamel, and I’m a computer science student with a strong interest in human-centered AI, embedded systems, and generative technologies. Throughout my academic journey, I’ve developed a diverse set of technical and analytical skills that span software engineering, hardware integration, data management, and real-time systems. This ePortfolio showcases my growth, achievements, and readiness to contribute meaningfully to the field of computer science.
 
+In this ePortfolio, you’ll find enhanced project artifacts, technical narratives, and reflections that illustrate my readiness for real-world challenges.
+
 Over the course of the program, I’ve gained hands-on experience in:
 
 •	Embedded system design and hardware-software integration
@@ -37,6 +39,8 @@ These enhancements demonstrate my ability to apply efficient data structures, re
 5.	Professional and Ethical Responsibilities
 
 This capstone experience has been a culmination of everything I’ve learned in the CS program. It challenged me to refine my technical skills, think critically about system design, and communicate with my work effectively. I’m proud of the progress I’ve made and excited to apply these skills in future roles that blend innovation, engineering, and human-centered design.
+
+Thank you for exploring my ePortfolio, I invite you to dive into the projects and reflections that represent my journey and future potential in computer science.
 
 
 
